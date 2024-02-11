@@ -47,7 +47,7 @@ canvas.grid(row=1, column=0, padx=10, pady=5)
 
 
 
-#array = []
+
 
 def display_arr(arr):
     canvas.delete("all")
